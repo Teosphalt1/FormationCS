@@ -1,0 +1,15 @@
+C:\Users\theop\FormationCS\MiniGame\MiniGame\bin\Debug\net6.0\MiniGame.exe
+C:\Users\theop\FormationCS\MiniGame\MiniGame\bin\Debug\net6.0\MiniGame.deps.json
+C:\Users\theop\FormationCS\MiniGame\MiniGame\bin\Debug\net6.0\MiniGame.runtimeconfig.json
+C:\Users\theop\FormationCS\MiniGame\MiniGame\bin\Debug\net6.0\MiniGame.dll
+C:\Users\theop\FormationCS\MiniGame\MiniGame\bin\Debug\net6.0\MiniGame.pdb
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.csproj.AssemblyReference.cache
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.AssemblyInfoInputs.cache
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.AssemblyInfo.cs
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.dll
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\refint\MiniGame.dll
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.pdb
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\MiniGame.genruntimeconfig.cache
+C:\Users\theop\FormationCS\MiniGame\MiniGame\obj\Debug\net6.0\ref\MiniGame.dll
