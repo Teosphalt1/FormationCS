@@ -6,10 +6,11 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            string name = "Théophile";
+            string firstName = "Théophile";
             float age = 25.9f;
-
-            Console.WriteLine($"Bonjour, je m'appelle {name}, j'ai {age} ans");
+            float height = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Bonjour, je m'appelle {firstName}, j'ai {age} ans et je mesure {height}");
+            Console.ReadLine();
         }
     }
 }
